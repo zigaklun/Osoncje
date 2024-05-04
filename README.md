@@ -23,9 +23,9 @@ za okroglo tirnico: v= sqrt(u/r);
 
 kjer je u = GM;
 ## Instalacija
-Za pogon simulacije preprosto prenesite Osoncje Simulacija.exe datoteko in jo poženite.
+Za pogon simulacije prenesite mapo **"Mapa za instalacijo"** na disk. V mapi najprej odpakirajte Osoncje **"Simulacija_Data.zip"** in **"UnityPlayer.zip"**, nato pa lahko poženete **"Osoncje Simulacija.exe"**.
 ## Datoteke
-V reposatoriju so vključene vse C# datoteke, ki nadzorujejo kamero, planete in  besedilo; Simulacja Osoncja.exe datoteka in OsončjeMere.xlsx, kjer so vse uporabljene mere.
+V reposatoriju so vključene vse C# skripti, ki nadzorujejo kamero, planete in  besedilo, Mapa za instalacijo in OsončjeMere.xlsx, kjer so napisane vse uporabljene mere.
 
 
 ## Kontrole
