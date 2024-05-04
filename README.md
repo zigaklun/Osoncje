@@ -13,15 +13,16 @@ Gravitacijska konstanta je iz 6.67 * 10^-11 Nm^2/kg^2 nastavljena na 10 za hitre
 Okoli Zemlje se vrti tudi Luna.
 ## Fizika za simulacijo
 Za simulacijo sta uporabljeni samo dve formuli:
+sila med planeti in Soncem
 
 F = G (M m)/ r^2;
 
-za eliptično tirnico: v = sqrt(u(2/r -1/a))
+začetna hitrost za eliptično tirnico: v = sqrt(µ(2/r -1/a));
 
 
-za okroglo tirnico: v= sqrt(u/r);
+>za okroglo tirnico: v= sqrt(µ/r);
 
-kjer je u = GM;
+kjer je µ = GM;
 ## Instalacija
 Za pogon simulacije prenesite mapo **"Mapa za instalacijo"** na disk. V mapi najprej odpakirajte Osoncje **"Simulacija_Data.zip"** in **"UnityPlayer.zip"**, nato pa lahko poženete **"Osoncje Simulacija.exe"**.
 ## Datoteke
